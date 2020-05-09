@@ -11,6 +11,7 @@ namespace Math_Algorithms
             public double y;
         }
 
+        //List of points
         static List<Point> Points = new List<Point> { new Point { x = 1, y = 1 }, new Point { x = 5, y = 1 }, new Point { x = 3, y = 4 } };
 
         static Point Punto = new Point {x=0, y=10 };
